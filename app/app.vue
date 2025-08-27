@@ -3,13 +3,6 @@
     class="min-h-screen flex flex-col items-center justify-center bg-zinc-900 text-white"
   >
     <div class="flex gap-8 mb-8">
-      <a href="https://vitejs.dev" target="_blank">
-        <img
-          src="https://vitejs.dev/logo.svg"
-          class="h-24 p-6 transition-filter duration-300 hover:drop-shadow-[0_0_2em_#646cffaa]"
-          alt="Vite logo"
-        />
-      </a>
       <a href="https://vuejs.org/" target="_blank">
         <img
           src="https://vuejs.org/images/logo.png"
